@@ -4,12 +4,12 @@
         <input href="../spring_flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-    <deliverable id="d-Deliverable1130-1727771448496" name="Deliverable1130">
+    <deliverable id="d-Templatedeoverwrite-1727771519398" name="Templatedeoverwrite">
         <context idref="AmRSHUSsHWkdron"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value=".contentfusion/templates/Custom1130"/>
-            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
         </publication>
     </deliverable>
 </project>
